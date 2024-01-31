@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sparbuch_loesung", "sparbuch_loesung.csproj", "{DCACD7AE-3751-4533-952B-D45F801A1F2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCACD7AE-3751-4533-952B-D45F801A1F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCACD7AE-3751-4533-952B-D45F801A1F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCACD7AE-3751-4533-952B-D45F801A1F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCACD7AE-3751-4533-952B-D45F801A1F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF304647-75F8-4617-ACF5-FEBC7C2DAFF9}
+	EndGlobalSection
+EndGlobal
