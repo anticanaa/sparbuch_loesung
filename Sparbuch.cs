@@ -16,5 +16,9 @@ public class Sparbuch
     {
         _besitzer = besitzer;
     }
-
+    public void Einzahlen(decimal betrag)
+    {
+        _guthaben = betrag + _guthaben;
+        _betrag.Add(betrag);
+    }
 }
