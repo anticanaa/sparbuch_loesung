@@ -2,4 +2,4 @@
 
 ## UML
 
-![Sparbuch UML](sparbuch_loesung.png)
+![Sparbuch UML](sparbuch_loesung.png) 
