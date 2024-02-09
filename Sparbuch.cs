@@ -21,4 +21,16 @@ public class Sparbuch
         _guthaben = betrag + _guthaben;
         _betrag.Add(betrag);
     }
+    public int GetAnzahl()
+    {
+        return _betrag.Count();
+    }
+    public decimal GetGuthaben()
+    {
+        return _guthaben;
+    }
+    public string GetBesitzer()
+    {
+        return _besitzer;
+    }
 }
