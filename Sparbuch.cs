@@ -12,6 +12,9 @@ public class Sparbuch
     string _besitzer;
     List<decimal> _betrag = new();
 
-
+    public Sparbuch(string besitzer)
+    {
+        _besitzer = besitzer;
+    }
 
 }
